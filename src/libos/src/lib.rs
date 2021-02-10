@@ -66,8 +66,6 @@ use crate::process::pid_t;
 
 #[macro_use]
 mod prelude;
-#[macro_use]
-mod error;
 
 mod config;
 mod entry;
